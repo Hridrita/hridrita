@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hridrita</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Full-Stack%20Developer%20&fontSize=70" />
+  <img src="[https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Full-Stack%20Developer%20&fontSize=70](https://capsule-render.vercel.app/render?type=waving&color=0e75b6&height=200&section=header&text=Full-Stack%20Developer&fontSize=70&animation=fadeIn)" />
 </p>
 
 <h3 align="center">
