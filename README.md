@@ -13,7 +13,7 @@
 ---
 
 ### 🙋‍♂️ About Me
-আমি একজন **CSE Final Year Student**। বর্তমানে আমি **MERN Stack** নিয়ে কাজ করছি এবং আমার মূল ফোকাস হলো আধুনিক ও রেসপনসিভ ওয়েব অ্যাপ্লিকেশন তৈরি করা। আমি নতুন নতুন টেকনোলজি শিখতে এবং চ্যালেঞ্জিং প্রজেক্টে কাজ করতে পছন্দ করি।
+I am a **Final-year Computer Science & Engineering student**. Currently, I am focused on mastering the **MERN Stack** and building modern, responsive web applications. I am passionate about learning new technologies and solving real-world problems through code.
 
 - 🌱 I’m currently learning **Next.js** and improving my Backend skills.
 - 🔭 I’m currently working on **Blood Bridge** (a blood donation management system).
