@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="[[https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Full-Stack%20Developer%20&fontSize=70](https://capsule-render.vercel.app/render?type=waving&color=0e75b6&height=200&section=header&text=Full-Stack%20Developer&fontSize=70&animation=fadeIn)](https://i.ibb.co.com/SXWNgP09/laptop-with-glowing-screen-table-dark-top-view-copy-space-169016-51607.avif)" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0e75b6&height=200&section=header&text=Full-Stack%20Developer&fontSize=70&animation=fadeIn" />
 </p>
 
 <h3 align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/hridrita" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hridrita-saha-moon/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:moonsaha721@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
