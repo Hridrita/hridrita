@@ -4,21 +4,29 @@
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Full-Stack%20Developer%20&fontSize=70" />
 </p>
 
-<h3 align="center">Aspiring Full-stack Developer | MERN Stack & Next.js Trainee</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2e8b57&center=true&vCenter=true&width=435&lines=Hello+there!+%F0%9F%91%8B;I+am+Hridrita." alt="Typing SVG" />
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hridrita&label=Profile%20views&color=0e75b6&style=flat" alt="hridrita" />
+  <b>Aspiring Full Stack Web Engineer 🚀 | Focused on MERN Stack & Next.js | Crafting High-Performance & Responsive Web Applications 🌍 | Final-year CSE Student 💡</b>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/hridrita" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:moonsaha721@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🙋‍♂️ About Me
-I am a **Final-year Computer Science & Engineering student**. Currently, I am focused on mastering the **MERN Stack** and building modern, responsive web applications. I am passionate about learning new technologies and solving real-world problems through code.
+### Talking about Personal Stuff:
 
-- 🌱 I’m currently learning **Next.js** and improving my Backend skills.
-- 🔭 I’m currently working on **Blood Bridge** (a blood donation management system).
-- 🚀 I’ve already completed several projects using **React** and **Tailwind CSS**.
-- 📫 How to reach me: **moonsaha721@gmail.com**
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridrita&layout=compact&theme=radical&hide_border=true" />
+
+-  I’m currently working with **HTML, CSS, JavaScript, React, Next JS and Tailwind CSS**.
+-  I’m currently exploring **Next.js** and improving my **Backend development** skills.
+-  Working on a blood donation management system project named **Blood Bridge**.
+-  Reach me out: **moonsaha721@gmail.com**
 
 ---
 
@@ -31,8 +39,6 @@ I am a **Final-year Computer Science & Engineering student**. Currently, I am fo
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 
 ---
@@ -41,12 +47,4 @@ I am a **Final-year Computer Science & Engineering student**. Currently, I am fo
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hridrita&show_icons=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hridrita&theme=radical" />
-</p>
-
----
-
-### 🤝 Connect with me
-<p align="left">
-  <a href="https://linkedin.com/in/hridrita" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:moonsaha721@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
