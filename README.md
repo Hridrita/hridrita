@@ -50,3 +50,4 @@ I am a **Final-year Computer Science & Engineering student**. Currently, I am fo
   <a href="https://linkedin.com/in/hridrita" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:moonsaha721@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
+<img width="278" height="68" alt="{5F3DB9DA-D874-4942-AE4C-93C90B516D40}" src="https://github.com/user-attachments/assets/751d2f35-fc85-4d3d-82e5-8e2eeabe99c4" />
