@@ -29,10 +29,8 @@
   -  Working on a blood donation management system project named **Blood Bridge**.
   -  Reach me out: **moonsaha721@gmail.com**
 </p>
-<br/>
-<br/>
-<br/>
-<br/>
+<br clear="right"/>
+
 
 ---
 
