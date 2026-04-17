@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <b>Aspiring Full Stack Web Engineer | Focused on MERN Stack & Next.js | Crafting High-Performance & Responsive Web Applications | Final-year CSE Student </b>
+  <b>Aspiring Full Stack Web Engineer | Focused on MERN Stack | Crafting High-Performance & Responsive Web Applications | Final-year CSE Student </b>
 </p>
 
 <p align="center">
