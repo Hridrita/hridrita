@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/sdwrjwXb/Gemini-Generated-Image-j8s2nqj8s2nqj8s2.png" />
+  <img src="https://i.ibb.co.com/Pv5TnFbT/oding.png" />
 </p>
 
 <h3 align="center">
